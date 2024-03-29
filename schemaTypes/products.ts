@@ -26,8 +26,8 @@ export default {
         },
         {
             name: 'price',
-            type: 'Price',
-            title: 'number',
+            type: 'price',
+            title: 'Number',
         },
     ],
 }
