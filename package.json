@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "@sanity/vision": "^3.34.0",
+    "autoprefixer": "^10.4.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
@@ -25,7 +26,6 @@
   "devDependencies": {
     "@sanity/eslint-config-studio": "^3.0.1",
     "@types/react": "^18.0.25",
-    "autoprefixer": "^10.4.19",
     "eslint": "^8.6.0",
     "postcss": "^8.4.38",
     "prettier": "^3.0.2",

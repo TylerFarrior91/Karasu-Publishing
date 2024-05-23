@@ -1,7 +1,7 @@
-export defult function Navbar() {
+export default function Navbar() {
     return (
         <div>
-        <h1>hello from the navbar < /h1>
-            < /div>
+            <h1>hello from the navbar</h1>
+        </div>
     );
 }
